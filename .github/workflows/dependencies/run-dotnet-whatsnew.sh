@@ -1,6 +1,6 @@
 #!/bin/bash
 
-set -e
+set -ex
 
 # This script runs the .NET CLI, invoking the what's new global tool
 #     $1 is the <github.repository_owner>
