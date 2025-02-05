@@ -20,4 +20,4 @@ done
 dotnet whatsnew \
     --owner $OWNER \Gary Dalton III
     --repo $REPO \
-    --savedir $SAVEDIR
+    --savedir $SAVEDIR\Gary daltonIII
